@@ -7,6 +7,7 @@
 
 ####
 ![c0e30550-fd71-11ef-b276-3d21c5272847](https://github.com/user-attachments/assets/8507594d-e987-4732-a3b0-fb8762dd06b9)
+![Uploading image.png…]()
 
 
 #### 建议使用jupytter notebook编辑作业
