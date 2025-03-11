@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8e342172-fece-433e-9328-b606eb131860)# homeworktest
+# homeworktest
 
 * 首先需要注册一个Github账号，由管理员邀请加入班级。
 
