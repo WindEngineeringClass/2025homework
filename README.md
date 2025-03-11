@@ -1,4 +1,4 @@
-# homeworktest
+![image](https://github.com/user-attachments/assets/8e342172-fece-433e-9328-b606eb131860)# homeworktest
 
 * 首先需要注册一个Github账号，由管理员邀请加入班级。
 
@@ -7,7 +7,9 @@
 
 ####
 ![c0e30550-fd71-11ef-b276-3d21c5272847](https://github.com/user-attachments/assets/8507594d-e987-4732-a3b0-fb8762dd06b9)
-![Uploading image.png…]()
+![微信图片_20250311125750](https://github.com/user-attachments/assets/621e3ebe-3028-4936-a620-734287ed2058)
+![image](https://github.com/user-attachments/assets/6687da37-8232-4818-a845-9f60900646eb)
+
 
 
 #### 建议使用jupytter notebook编辑作业
