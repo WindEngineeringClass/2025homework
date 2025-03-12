@@ -1,0 +1,25 @@
+# 忽略所有 .log 文件
+*.log
+
+# 忽略临时文件
+temp/
+.tmp
+
+# 忽略备用程序目录
+/bak/
+# 忽略matlab输出的mat数据文件
+/mat/
+# 忽略matlab输出的图形文件
+/fig/
+# 忽略输入的数据文件
+/dat/
+# 忽略matlab临时保存文件
+**/*checkpoints
+
+# 忽略操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# 忽略敏感文件
+.env
+*.key
