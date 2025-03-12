@@ -1,8 +1,15 @@
 # homeworktest
+<<<<<<< HEAD
 
 # Github注册
 1. 注册Github账号，将个人账号在课程群中发给助教，由助教邀请加入Github班级。
 2. 收到邀请邮件后，进入注册时的邮箱，加入班级
+=======
+https://www.bilibili.com/video/BV1vJ411D79Y?spm_id_from=333.788.player.switch&vd_source=77a7402f7a0a73d3473f1b23cb5fa86c&p=4
+* 首先需要注册一个Github账号，由管理员邀请加入班级。
+
+* 进入注册时的邮箱，点击加入班级
+>>>>>>> 40abbfd326f8a4e431c61960f03e92efc59f16c8
 ![c9081070-fd73-11ef-8829-27b733495ffc](https://github.com/user-attachments/assets/a5aea6ea-ab4e-45e9-a24b-34ed5c9253f1)
 
 # 作业编辑
