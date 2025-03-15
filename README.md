@@ -5,7 +5,7 @@
 
 ## 作业提交  
 
-1. 作业文件命名方法：lecture序号-学号.ipynb，举例：lecture04-23S154105.ipynb
+1. 作业文件命名方法：lecture序号-学号-姓名.ipynb，举例：lecture04-23S154105-张三.ipynb
 2. 扫描二维码上传到对应课堂作业
 
 ## 其他
