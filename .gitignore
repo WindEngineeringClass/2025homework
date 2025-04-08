@@ -7,13 +7,9 @@ temp/
 
 # 忽略备用程序目录
 /bak/
-# 忽略matlab输出的mat数据文件
 /mat/
-# 忽略matlab输出的图形文件
 /fig/
-# 忽略输入的数据文件
 /dat/
-# 忽略matlab临时保存文件
 **/*checkpoints
 
 # 忽略操作系统生成的文件
